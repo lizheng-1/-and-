@@ -1,0 +1,51 @@
+ # 激活主要是为激活所写
+### **本文主要是为激活所写，安装很简单，就简写
+### 激活用我这个方法更简单，可别进坑了，修改jar文件的基本都是坑，**
+
+
+1、首先去Pycharm官网，或者直接输入网址：下载PyCharm安装包，根据自己电脑的操作系统进行选择，对于windows系统选择下图的框框所包含的安装包。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200528165547730.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTc1NTMzMg==,size_16,color_FFFFFF,t_70)
+
+2、选择Windows系统的专业版，将其下载到本地，如下图所示：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200528165630222.png)
+
+3、双击下载的安装包，进行安装，然后会弹出界面：
+
+![Python环境搭建—安利Python小白的Python和Pycharm安装详细教程](https://img-blog.csdnimg.cn/20200528165658745.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTc1NTMzMg==,size_16,color_FFFFFF,t_70)
+
+4、选择安装目录，Pycharm需要的内存较多，建议将其安装在D盘或者E盘，不建议放在系统盘C盘：
+点击Next，进入下图的界面：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200528165730345.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTc1NTMzMg==,size_16,color_FFFFFF,t_70)
+
+8、之后就会得到下面的安装完成的界面：击Finish，Pycharm安装完成。接下来对Pycharm进行配置，双击运行桌面上的Pycharm图标，进入下图界面：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/202005281659112.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTc1NTMzMg==,size_16,color_FFFFFF,t_70)
+选择Do not import settings，之后选择OK，进入下一步。
+
+10、选择Accept，进入下一步：
+
+12、可以先试用进去再激
+
+
+
+
+
+
+
+
+1.[下载这个文件，里面是这样的](https://download.csdn.net/download/weixin_45755332/12470631)
+
+[这里也可以免积分下载](https://github.com/lizheng-1/-and-)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200528163011697.png)
+2.打开pycharm，把lib文件里的这个文件拖到pycharm里![在这里插入图片描述](https://img-blog.csdnimg.cn/20200528163103876.png)
+会出现这个弹窗，重启
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/202005281613543.png)
+为pycharm安装
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200528161400299.png)
+他会自动再次重启，然后就完了。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200528221720566.png)
+ 本项目在最新2020.1上测试通过。
+ 
+ 仅供娱乐自用
